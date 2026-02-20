@@ -6,7 +6,7 @@ body {
 }
 
 div {
-  margin: .5rem auto;
+  margin: .5rem auto 0;
   padding: 1rem;
 }
 
@@ -14,7 +14,6 @@ div {
   width: 400px;
   background: #fff;
   padding: 1rem auto .5rem;
-  margin: 1rem auto;
 }
 
 .title {
@@ -35,6 +34,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  padding: 1rem 2rem;
+  padding: .5rem 2rem;
   margin: auto;
 }
