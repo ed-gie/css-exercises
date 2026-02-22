@@ -67,3 +67,36 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* my changes */
+
+.modal {
+  padding: 16px;
+}
+
+.outside-container {
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+
+}
+
+.header {
+  flex-grow: 1;
+  font-size: 1.2rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.icon {
+  flex-shrink: 0;
+}
+
+.close-button {
+  flex-shrink: 0;
+}
+
+/* could not figure out how "consectetur" overlaps past the close button */
+.text {
+  margin-bottom: 16px;
+}
