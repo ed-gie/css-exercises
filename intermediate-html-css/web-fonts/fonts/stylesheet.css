@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cooper Hewitt';
+    src: url('CooperHewitt-Medium.woff2') format('woff2'),
+        url('CooperHewitt-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hjet';
+    src: url('Hjet-Regular.woff2') format('woff2'),
+        url('Hjet-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
